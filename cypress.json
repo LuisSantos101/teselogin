@@ -1,0 +1,22 @@
+{
+
+    "chromeWebSecurity": false,   
+    
+    "env": {  
+        "url": "https://qa-test.ticto.io/",
+        "nome": "George Lucas",
+        "email": "george@gmail.com",
+        "password": "Mudar123",
+        "cadastroSucesso" :"Usuário cadastrado com sucesso",
+        "editadoSucesso" : "Usuário salvo com sucesso.",
+        "removidoSucesso": "Usuário removido com sucesso."
+,       "nomeInvalido": "asasa",
+        "emailInvalido": "gdsad@",
+        "senhaInvalida": "hgds",
+        "nmInvalido": "Insira um Nome e Sobrenome válido.",
+        "pwInvalida": "O campo Password deve ter no minimo 8 caracteres.",
+        "mailInvalido": "Insira uma parte depois de @"
+    }
+    
+
+}
