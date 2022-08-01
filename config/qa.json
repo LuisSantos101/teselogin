@@ -1,1 +1,16 @@
-{}
+{
+    "projectId": "1oo6xt",
+    
+    "chromeWebSecurity": false,
+    
+    "url": "https://qa-test.ticto.io/",
+    
+    "env": {
+    "nome": "Arnold George Williams",
+    "nomeInvalido": "%$% a s",
+    "email": "arnold_george@teste.com.br",
+    "emailInvalido": "arnold_george@teste.co...m.br",
+    "password": "mudar123",
+    "senhaInvalida": "abc"
+    }
+}
