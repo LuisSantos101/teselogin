@@ -1,16 +1,23 @@
 {
-    "projectId": "1oo6xt",
-    
     "chromeWebSecurity": false,
+    "projectId": "w4x9p9",
+
     
     "url": "https://qa-test.ticto.io/",
-    
-    "env": {
-    "nome": "Arnold George Williams",
-    "nomeInvalido": "%$% a s",
-    "email": "arnold_george@teste.com.br",
-    "emailInvalido": "arnold_george@teste.co...m.br",
-    "password": "mudar123",
-    "senhaInvalida": "abc"
-    }
+        
+    "env": {  
+        "url": "https://qa-test.ticto.io/",
+        "nome": "George Lucas",
+        "email": "george@gmail.com",
+        "password": "Mudar123",
+        "cadastroSucesso" :"Usuário cadastrado com sucesso",
+        "editadoSucesso" : "Usuário salvo com sucesso.",
+        "removidoSucesso": "Usuário removido com sucesso.",       
+        "nomeInvalido": "asasa",
+        "emailInvalido": "gdsad@",
+        "senhaInvalida": "hgds",
+        "nmInvalido": "Insira um Nome e Sobrenome válido.",
+        "pwInvalida": "O campo Password deve ter no minimo 8 caracteres.",
+        "mailInvalido": "Insira uma parte depois de @"
+        }
 }

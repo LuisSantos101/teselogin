@@ -10,8 +10,8 @@
         "password": "Mudar123",
         "cadastroSucesso" :"Usuário cadastrado com sucesso",
         "editadoSucesso" : "Usuário salvo com sucesso.",
-        "removidoSucesso": "Usuário removido com sucesso."
-,       "nomeInvalido": "asasa",
+        "removidoSucesso": "Usuário removido com sucesso.",       
+        "nomeInvalido": "asasa",
         "emailInvalido": "gdsad@",
         "senhaInvalida": "hgds",
         "nmInvalido": "Insira um Nome e Sobrenome válido.",
