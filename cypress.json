@@ -1,6 +1,7 @@
 {
-
-    "chromeWebSecurity": false,   
+    "chromeWebSecurity": false,  
+    "projectId": "w4x9p9",
+ 
     
     "env": {  
         "url": "https://qa-test.ticto.io/",
